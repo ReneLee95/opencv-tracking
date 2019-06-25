@@ -1,0 +1,4 @@
+﻿  opencv.cpp
+C:\Users\lsh95\source\repos\opencv\opencv\opencv.cpp(59,21): warning C4101:  'e' :참조되지 않은 지역 변수입니다.
+C:\Users\lsh95\source\repos\opencv\opencv\opencv.cpp(108,22): warning C4101:  'e' :참조되지 않은 지역 변수입니다.
+  opencv.vcxproj -> C:\Users\lsh95\source\repos\opencv\x64\Debug\opencv.exe

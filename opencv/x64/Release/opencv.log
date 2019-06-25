@@ -1,0 +1,2 @@
+﻿  opencv.cpp
+LINK : fatal error LNK1104: 'C:\Users\lsh95\source\repos\opencv\x64\Release\opencv.exe' 파일을 열 수 없습니다.
